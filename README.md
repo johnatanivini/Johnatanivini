@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Desenvolvedor PHP Fullstack :elephant:
+### Sou desenvolvedor PHP Fullstack :elephant:
 
 Minha stack  principal é PHP, backend, atualmente trabalhando com frameworks _Laravel_ e _Symfony_, de vez em quando trabalho em info-produtos desenvolvido em WordPress, e também desenvolvimento de aplicações voltadas para Web em geral.
 
