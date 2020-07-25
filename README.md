@@ -43,23 +43,22 @@ Atualmente estou buscando trabalhar remotamente, pela facilidade e maior produti
 
 ## Formação :mortar_board:
 
-- Tecnólogo em Gestão de TI pela Faculdade de Tecnologia do Nordeste, em 2015.
-- Com Especialização em Análise, Projeto e Gerência de Sistemas da Informação pela ESTÁCIO em 2017.
+Tecnólogo em Gestão de TI pela Faculdade de Tecnologia do Nordeste, em 2015.
+Com Especialização em Análise, Projeto e Gerência de Sistemas da Informação pela ESTÁCIO em 2017.
 
-- Atualmente, busco estudar por conta própia, um ser autodidata, por assim dizer.
+Atualmente, busco estudar por conta própia, um ser autodidata, por assim dizer.
 
 ## Comunidade :grimacing:
 
-- Gostaria de citar aqui a comunidade PHP mais arretada do Brasil :sunglasses: **PHP Com Rapadura** :sunglasses:
-- http://phpcomrapadura.org
+Gostaria de citar aqui a comunidade PHP mais arretada do Brasil :sunglasses: **PHP Com Rapadura** :sunglasses: , acesse http://phpcomrapadura.org, e conheça mais sobre essa maravilha.
 
 ## Hobbies e Esportes :airplane: :deciduous_tree: :car: :video_game: :muscle:
 
-- _Viajar ( Praia, Acampar, Trilhas, atravessar o Brasil de Carro).
-- _Games
-- _Jiu-jitsu
-- _Capoeira
-- _Musculação
+- _Viajar_ ( Praia, Acampar, Trilhas, atravessar o Brasil de Carro).
+- _Games_
+- _Jiu-jitsu_
+- _Capoeira_
+- _Musculação_
 
 ##  Como me contactar? :email: :link:
 
