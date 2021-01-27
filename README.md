@@ -23,7 +23,9 @@ Atualmente busco trabalhar em projetos, que agregem valor ao crescimento profiss
 
 ### Atualmente estou aprendendo: :pencil2:
 
-Me aventurando no mundo frontend, em VueJs e NodeJs (_backend_)
+Me aventurando no mundo frontend, em VueJs e NodeJs (_backend_), React e Next.js
+
+Trabalhando hoje, com Angular 11.
 
 ### Atualmente busco: :running:
 
@@ -64,7 +66,7 @@ Gostaria de citar aqui a comunidade PHP mais arretada do Brasil :sunglasses: **P
 
 - http://linkedin.com/in/johnatanivini
 - http://johnatanivini.eti.br
-- http://johnatan.ivini.gmail.com
+- http://johnatan.ivini@gmail.com
 
 
 #### See you later!
