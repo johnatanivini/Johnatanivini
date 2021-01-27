@@ -66,7 +66,6 @@ Gostaria de citar aqui a comunidade PHP mais arretada do Brasil :sunglasses: **P
 
 - http://linkedin.com/in/johnatanivini
 - http://johnatanivini.eti.br
-- http://johnatan.ivini@gmail.com
 
 
 #### See you later!
