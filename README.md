@@ -31,7 +31,7 @@ Atualmente estou buscando trabalhar remotamente, pela facilidade e maior produti
 
 ### Stacks :sparkles:
 
-![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=php&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=php&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/code-Javascript-informational?style=flat&logo=JavaScript&logoColor=blue&color=yellow)
 ![](https://img.shields.io/badge/code-Mysql-informational?style=flat&logo=mysql&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=blue&color=2bbc8a)
