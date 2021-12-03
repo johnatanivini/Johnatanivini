@@ -49,6 +49,7 @@ Atualmente estou buscando trabalhar remotamente, pela facilidade e maior produti
 ## Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=johnatanivini&count_private=true&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanivini&count_private=true&show_icons=true&theme=gruvbox)
 
 ## Formação :mortar_board:
 
