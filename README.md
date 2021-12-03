@@ -23,7 +23,7 @@ Atualmente busco trabalhar em projetos, que agregem valor ao crescimento profiss
 
 ### Atualmente estou aprendendo: :pencil2:
 
-Me aventurando no mundo frontend, em ReactJS e pouco de Java
+Me aventurando no mundo frontend, em ReactJS e um pouco de Java
 
 ### Atualmente busco: :running:
 
