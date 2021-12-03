@@ -41,7 +41,7 @@ Atualmente estou buscando trabalhar remotamente, pela facilidade e maior produti
 ![](https://img.shields.io/badge/os-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/os-ReactJs-informational?style=flat&logo=react&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/os-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=blue&color=2bbc8a)
-![](https://img.shields.io/badge/os-IntelliJ Idea-informational?style=flat&logo=intellijidea&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/os-IntelliJ+Idea-informational?style=flat&logo=intellijidea&logoColor=blue&color=2bbc8a)
 
 ## Formação :mortar_board:
 
