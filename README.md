@@ -39,6 +39,7 @@ Atualmente estou buscando trabalhar remotamente, pela facilidade e maior produti
 ![](https://img.shields.io/badge/tool-Laravel-informational?style=flat&logo=laravel&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/tool-Docker-informational?style=flat&logo=docker&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/os-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/os-ReactJs-informational?style=flat&logo=react&logoColor=blue&color=2bbc8a)
 
 ## Formação :mortar_board:
 
