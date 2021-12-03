@@ -23,9 +23,7 @@ Atualmente busco trabalhar em projetos, que agregem valor ao crescimento profiss
 
 ### Atualmente estou aprendendo: :pencil2:
 
-Me aventurando no mundo frontend, em VueJs e NodeJs (_backend_), React e Next.js
-
-Trabalhando hoje, com Angular 11.
+Me aventurando no mundo frontend, em ReactJS e pouco de Java
 
 ### Atualmente busco: :running:
 
@@ -33,15 +31,8 @@ Atualmente estou buscando trabalhar remotamente, pela facilidade e maior produti
 
 ### Stacks :sparkles:
 
-- _PHP_
-- _PostgresSQL_
-- _WordPress_
-- _Laravel_
-- _Symfony_
-- _Jquery_
-- _CSS_
-- _HTML_
-- _Javascript_
+![](https://img.shields.io/badge/<code>-<PHP>-informational?style=flat&logo=php&logoColor=blue&color=2bbc8a)
+
 
 ## Formação :mortar_board:
 
