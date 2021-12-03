@@ -42,6 +42,7 @@ Atualmente estou buscando trabalhar remotamente, pela facilidade e maior produti
 ![](https://img.shields.io/badge/os-ReactJs-informational?style=flat&logo=react&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/os-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/os-IntelliJ%20Idea-informational?style=flat&logo=intellijidea&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/os-css-informational?style=flat&logo=css&logoColor=pink&color=2bbc8a)
 
 ## Formação :mortar_board:
 
@@ -56,7 +57,7 @@ Gostaria de citar aqui a comunidade PHP mais arretada do Brasil :sunglasses: **P
 
 ## Hobbies e Esportes :airplane: :deciduous_tree: :car: :video_game: :muscle:
 
-- _Viajar_ ( Praia, Acampar, Trilhas, atravessar o Brasil de Carro).
+- _Viajar_
 - _Games_
 - _Jiu-jitsu_
 - _Capoeira_
