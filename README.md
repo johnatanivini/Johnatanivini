@@ -50,7 +50,6 @@ Atualmente estou buscando trabalhar remotamente, pela facilidade e maior produti
 
 ![](https://github-readme-stats.vercel.app/api?username=johnatanivini&count_private=true&show_icons=true&theme=gruvbox)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanivini&count_private=true&show_icons=true&theme=gruvbox)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=johnatanivini)
 
 ## Formação :mortar_board:
 
