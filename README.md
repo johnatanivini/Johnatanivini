@@ -46,6 +46,10 @@ Atualmente estou buscando trabalhar remotamente, pela facilidade e maior produti
 ![](https://img.shields.io/badge/code-html-informational?style=flat&logo=html5&logoColor=pink&color=blue)
 ![](https://img.shields.io/badge/tool-git-informational?style=flat&logo=git&logoColor=pink&color=cereje)
 
+## Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=johnatanivini&count_private=true&show_icons=true&theme=gruvbox)
+
 ## Formação :mortar_board:
 
 Tecnólogo em Gestão de TI pela Faculdade de Tecnologia do Nordeste, em 2015.
