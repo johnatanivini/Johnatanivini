@@ -44,6 +44,7 @@ Atualmente estou buscando trabalhar remotamente, pela facilidade e maior produti
 ![](https://img.shields.io/badge/os-IntelliJ%20Idea-informational?style=flat&logo=intellijidea&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/code-css3-informational?style=flat&logo=css3&logoColor=pink&color=f8498a)
 ![](https://img.shields.io/badge/code-html-informational?style=flat&logo=html5&logoColor=pink&color=blue)
+![](https://img.shields.io/badge/tool-git-informational?style=flat&logo=git&logoColor=pink&color=cereje)
 
 ## Formação :mortar_board:
 
