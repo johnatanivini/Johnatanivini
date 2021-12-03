@@ -31,8 +31,14 @@ Atualmente estou buscando trabalhar remotamente, pela facilidade e maior produti
 
 ### Stacks :sparkles:
 
-![](https://img.shields.io/badge/<code>-<PHP>-informational?style=flat&logo=php&logoColor=blue&color=2bbc8a)
-
+![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=php&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/code-Javascript-informational?style=flat&logo=JavaScript&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/code-Mysql-informational?style=flat&logo=mysql&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/code-Java-informational?style=flat&logo=java&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/tool-Laravel-informational?style=flat&logo=laravel&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/tool-Docker-informational?style=flat&logo=docker&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/os-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=blue&color=2bbc8a)
 
 ## Formação :mortar_board:
 
