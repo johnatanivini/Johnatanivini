@@ -23,7 +23,7 @@ Atualmente busco trabalhar em projetos, que agregem valor ao crescimento profiss
 
 ### Atualmente estou aprendendo: :pencil2:
 
-Estou treinando para desbloquear meu primeiro BMU, olhando parece fácil, mas preciso melhorar as bases pra avançar sem lesão.
+Estou treinando para desbloquear meu primeiro BMU, olhando parece fácil, mas preciso melhorar minha bases, para então, avançar sem lesão.
 Além dissi, no tempo livre, que me sobra, ando estudando Java.
 
 ### Atualmente busco: :running:
