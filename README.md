@@ -23,7 +23,8 @@ Atualmente busco trabalhar em projetos, que agregem valor ao crescimento profiss
 
 ### Atualmente estou aprendendo: :pencil2:
 
-Me aventurando no mundo frontend, em ReactJS e um pouco de Java
+Estou treinando para desbloquear meu primeiro BMU, olhando parece fácil, mas preciso melhorar as bases pra avançar sem lesão.
+Além dissi, no tempo livre, que me sobra, ando estudando Java.
 
 ### Atualmente busco: :running:
 
@@ -57,7 +58,7 @@ Tecnólogo em Gestão de TI pela Faculdade de Tecnologia do Nordeste, em 2015.
 Com Especialização em Análise, Projeto e Gerência de Sistemas da Informação pela ESTÁCIO em 2017.
 
 Atualmente, busco estudar por conta própia, um ser autodidata, por assim dizer.
-
+60,00
 ## Comunidade :grimacing:
 
 Gostaria de citar aqui a comunidade PHP mais arretada do Brasil :sunglasses: **PHP Com Rapadura** :sunglasses: , acesse http://phpcomrapadura.org, e conheça mais sobre essa maravilha.
@@ -69,12 +70,12 @@ Gostaria de citar aqui a comunidade PHP mais arretada do Brasil :sunglasses: **P
 - _Jiu-jitsu_
 - _Capoeira_
 - _Musculação_
+- _Crossfit_(Sou Scale kk)
 
 ##  Como me contactar? :email: :link:
 
 - http://linkedin.com/in/johnatanivini
 - http://johnatanivini.eti.br
-
 
 #### See you later!
 
