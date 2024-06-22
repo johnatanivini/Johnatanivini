@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Sou desenvolvedor PHP Fullstack :elephant:
+### I'm PHP Develop Fullstack :elephant:
 
-Minha stack  principal é PHP, backend, atualmente trabalhando com frameworks _Laravel_ e _Symfony_, de vez em quando trabalho em info-produtos desenvolvido em WordPress, e também desenvolvimento de aplicações voltadas para Web em geral.
+My main stack is PHP, backend, actually I'm working with _laravel_ and _Symfony_, and products for web make with WordPres.
 
-Atualmente busco trabalhar em projetos, que agregem valor ao crescimento profissional, pessoal e intelectual, que possa sentir-se parte de algo que sei que pode melhorar a vida das pessoas.
+I'm look for new projects that add value of the professional grownting, personal and inteceltualy , and that thoses workings with news implementations and hard changlengs.
 
-### Atualmente estou aprendendo: :pencil2:
+### I'm studying: :pencil2:
 
-Estou treinando para desbloquear meu primeiro BMU, olhando parece fácil, mas preciso melhorar minha bases, para então, avançar sem lesão.
-Além dissi, no tempo livre, que me sobra, ando estudando Java.
+Yes, I love my PHP dare, but i look for news opportunities that can insert on Java world.
+I'm learning Spring Boot, JPA, Hibernate, JDBC...and more letter soups of the Java EE and Java Web.
 
-### Atualmente busco: :running:
+### Work preferences: :running:
 
-Atualmente estou buscando trabalhar remotamente, pela facilidade e maior produtividade e gerenciamento de tempo, e redução de custo.
+Actually i look for work for home, to stay more near at my family and confortable for more prodctivity.
 
 ### Stacks :sparkles:
 
@@ -52,30 +52,27 @@ Atualmente estou buscando trabalhar remotamente, pela facilidade e maior produti
 ![](https://github-readme-stats.vercel.app/api?username=johnatanivini&count_private=true&show_icons=true&theme=gruvbox)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanivini&count_private=true&show_icons=true&theme=gruvbox)
 
-## Formação :mortar_board:
+## Education :mortar_board:
 
-Tecnólogo em Gestão de TI pela Faculdade de Tecnologia do Nordeste, em 2015.
-Com Especialização em Análise, Projeto e Gerência de Sistemas da Informação pela ESTÁCIO em 2017.
+- Tecnólogo em Gestão de TI pela Faculdade de Tecnologia do Nordeste, em 2015.
+- Especialização em Análise, Projeto e Gerência de Sistemas da Informação pela ESTÁCIO em 2017.
 
-Atualmente, busco estudar por conta própia, um ser autodidata, por assim dizer.
-60,00
-## Comunidade :grimacing:
+## Community :grimacing:
 
-Gostaria de citar aqui a comunidade PHP mais arretada do Brasil :sunglasses: **PHP Com Rapadura** :sunglasses: , acesse http://phpcomrapadura.org, e conheça mais sobre essa maravilha.
+Would like to talk about community PHP more "arretada" from Brazil :sunglasses: **PHP Com Rapadura** :sunglasses: , access http://phpcomrapadura.org, e know more about this!.
 
-## Hobbies e Esportes :airplane: :deciduous_tree: :car: :video_game: :muscle:
+## Hobbies and Sports :airplane: :deciduous_tree: :car: :video_game: :muscle:
 
-- _Viajar_
+- _Travel_
 - _Games_
 - _Jiu-jitsu_
 - _Capoeira_
-- _Musculação_
-- _Crossfit_(Sou Scale kk)
+- _Crossfit_(Im Scale xD)
 
-##  Como me contactar? :email: :link:
+##  Contact-me? :email: :link:
 
 - http://linkedin.com/in/johnatanivini
-- http://johnatanivini.eti.br
+- http://ivini.dev
 
 #### See you later!
 
